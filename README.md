@@ -18,8 +18,8 @@
         <th colspan="3">evening</th>       
     </tr>
     <tr>
-        <th></th>
-        <th></th>
+        <th> blank</th>
+        <th> blank</th>
         <th>9-10am</th>
         <th>10-11am</th>
         <th>11-12am</th>
@@ -28,6 +28,7 @@
         <th>2-3pm</th>
         <th>3-4pm</th>
         <th>4-6pm</th>
+        <th>12-1pm</th>
         
 
         
