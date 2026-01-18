@@ -24,6 +24,10 @@
         <th>10-11am</th>
         <th>11-12am</th>
         <th>12-1pm</th>
+        <th>1-2pm</th>
+        <th>2-3pm</th>
+        
+
         
         <th>1-2pm</th>
         <th>2-3pm</th>
