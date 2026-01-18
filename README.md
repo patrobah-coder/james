@@ -70,7 +70,7 @@
 
     </tr>
     <tr>
-        <td >research</td>
+        <td >Reseach</td>
         <td rowspan="2">friday</td>
         <td colspan="3">research</td>
         <td></td>
