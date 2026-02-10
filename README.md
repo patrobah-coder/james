@@ -1,30 +1,10 @@
-<!DOCTYPE html >
-<html> 
-    <head> 
-<title> dynamic Coment Form </title>
-    </head>
-    <body> 
-<h2> leave a comment</h2>
-<div id="form container"></div>
-    </body>
-</script>
-<form> 
-    <label for=
-    
-    
-    
-    </form>
-
-
-
-
-
-    
-</script>
-
-        
-    </body>
-</html>
+<form action="/sign-in.php">
+First name:<br>
+<input type="text" name="firstname" value="Max"><br>
+Last name:<br>
+<input type="text" name="lastname" value="Mustermann"><br><br>
+<input type="submit" value="Submit">
+</form>
 
         
 
