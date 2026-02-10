@@ -83,23 +83,11 @@
         <td></td>
         <td colspan="7">research</td>
 
-<!DOCTYPE html>
-<html>  
-<head>
+
+
+
     <title> Dynamic form</title>
-</head>
-<body> 
-<div id="form Area"></div>
-</body>
-    
-</html>
-
-
-
-
-
-        
-        
+    <div id="form Area"></div>   
 
     </tr>
 
