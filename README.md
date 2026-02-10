@@ -88,10 +88,10 @@
 
     <title> Dynamic form</title>
     <div id="form Area"></div>   
-
+</body>
     </tr>
 
    </tbody>
     </table>
-</body>
+
 </html>
