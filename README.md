@@ -6,7 +6,8 @@
     <body> 
 <h2> leave a comment</h2>
 <div id="form container"></div>
-<script>
+    </body>
+</script>
 <form> 
     <label for=
     
